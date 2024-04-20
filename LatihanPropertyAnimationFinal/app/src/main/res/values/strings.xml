@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Story Aplication</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="set_title">Nice</string>
+    <string name="login_success">You are logged in successfully</string>
+    <string name="set_error_pw">Password cannot be less than 8 characters</string>
+    <string name="set_error_email">Example mohamadfajaragung@gmail.com</string>
+    <string name="lanjut">Next</string>
+    <string name="signup_success">"The account was successfully registered  : "</string>
+    <string name="message_welcome_page">This is the Story Submission Dicoding Android Intermediate app</string>
+    <string name="title_welcome_page">Welcome to the Story App</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="name">Name</string>
+
+
+    <string name="gambar_list">List Image</string>
+    <string name="judul_item">Item Title</string>
+    <string name="description">description</string>
+    <string name="camera_x">CameraX</string>
+
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Please insert the image file first.</string>
+    <string name="silahkan_login">Please Login</string>
+    <string name="email_hint">Insert Your email</string>
+    <string name="password_hint">Insert Your password</string>
+    <string name="name_hint">Insert Your Name</string>
+    <string name="toast_offline_add">You are Offline</string>
+    <string name="error_picture">Failed take picture</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="gambar_signup" translatable="false">gambar signup</string>
+    <string name="gambar_splash" translatable="false">gambar splash</string>
+    <string name="gambar_welcome" translatable="false">gambar_welcome</string>
+</resources>

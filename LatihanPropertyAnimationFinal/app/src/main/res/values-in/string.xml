@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Aplikasi Story </string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="set_title">Aseek</string>
+    <string name="login_success">Anda berhasil login </string>
+    <string name="set_error_pw">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="set_error_email">Contoh mohamadfajaragung@gmail.com</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="signup_success">Akun berhasil didaftar. yaitu : </string>
+    <string name="message_welcome_page">Ini adalah aplikasi Story Submission Dicoding Android Intermediate</string>
+    <string name="title_welcome_page">Selamat datang di Aplikasi Story</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="name">Nama</string>
+    <string name="gambar_list">gambar list</string>
+    <string name="judul_item">Judul Item</string>
+    <string name="description">description</string>
+    <string name="camera_x">CameraX</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="silahkan_login">Silahkan Login</string>
+    <string name="email_hint">Masukkan Email Anda</string>
+    <string name="password_hint">Masukkan Password Anda</string>
+    <string name="name_hint">Masukkan Nama Anda</string>
+    <string name="toast_offline_add">Anda Sedang Offline</string>
+    <string name="error_picture">Gagal Mengambil Gambar</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
